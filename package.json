@@ -18,7 +18,7 @@
     "cross-env": "^5.2.0",
     "element-ui": "^2.4.11",
     "exif-js": "^2.3.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.4.0",
     "pixi.js": "^4.8.7",
